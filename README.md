@@ -1,2 +1,2 @@
 # ChrononauticaCore
-Core engine for the cross-platform cross-language time machine debugging library. 
+Core engine for cross-platform cross-language time-machine debugging libraries. 
